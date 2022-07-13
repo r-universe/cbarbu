@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "zoom"]
+	path = zoom
+	url = https://github.com/cbarbu/r-package-zoom
+	shallow = true
+	subdir = zoom
+	registered = true
